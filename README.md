@@ -1,2 +1,2 @@
 # MRIgeneralizedBloch_NMRData
-Inversion recovery NMR data with different inversion pulse durations that validates the generalized Bloch model. 
+Inversion recovery NMR data of an MnCl2 and a bovine serum alubin (BSA) probe. The magnetization was inverted with rectangular π-pulses with varying durations and the resulting spin dynamics validates the generalized Bloch model. A script that loads and analyzes the data can be found in the documentation of the [MRIgeneralizedBloch.jl](https://jakobasslaender.github.io/MRIgeneralizedBloch.jl/dev/build_literate/Analyze_NMR_Data/) package. 
