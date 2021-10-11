@@ -1,6 +1,6 @@
 # MRIgeneralizedBloch_NMRData
 
-[![](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JakobAsslaender/MRIgeneralizedBloch.jl/gh-pages?filepath=v0.2.5/build_literate/Analyze_NMR_Data.ipynb)
+[![](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JakobAsslaender/MRIgeneralizedBloch.jl/gh-pages?filepath=v0.2.11/build_literate/Analyze_NMR_Data.ipynb)
 
 Inversion recovery NMR data of an MnCl2 and a bovine serum albumin (BSA) sample, as described in our [generalized Bloch paper](https://arxiv.org/pdf/2107.11000.pdf). 
 
